@@ -1,1 +1,0 @@
-# Desperate-Gizlilik-Politikas-
