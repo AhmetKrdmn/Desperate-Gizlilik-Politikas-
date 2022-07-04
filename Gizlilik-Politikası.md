@@ -4,7 +4,6 @@ Botu sunucuya ekleyen herkes gizlilik politikasınnı okumuş ve kabul etmiş sa
 # Hangi Verileri Depoluyoruz? Niçin Depoluyoruz?
 Kanal Verileri : Log sistemi, öneri sistemi gibi sistemlerin çalışabilmesi için kanalların ID'leri depolanıyor.
 Rol Verileri : Destek sistemi gibi sistemlerde rolleri hatırlamak için ID'leri depolanıyor.
-IP Verileri : MTA ve Minecraft sunucu bilgilerini yenilemek için IP adresleri depolanıyor.
 Kullanıcı Verileri : Özel ses ve metin sistemlerinde ID'nizi kısa süreliğine depoluyoruz.
 
 # Bu Verileri Nasıl Kaldırabiliriz?
@@ -16,4 +15,4 @@ Hayır, verileriniz kimse ile paylaşılmıyor.
 # Yapımcıyla İletişime Nasıl Geçebilirim?
 [Destek sunucusuna](https://discord.com/invite/P729N7843G) katılarak yapımcı ile iletişime geçebilirsin.
 
-**NOT : Kullanıcılarımıza haber vermeksizin bunu değiştirme hakkını saklı tutarız. Bu politika en son 4 Haziran 2022 tarihinde güncellenmiştir.**
+**NOT : Kullanıcılarımıza haber vermeksizin bunu değiştirme hakkını saklı tutarız. Bu politika en son 4 Temmuz 2022 tarihinde güncellenmiştir.**
